@@ -1,4 +1,4 @@
-package DSA1.Arrays;
+package DSA.Arrays;
 
 public class ArraySum {
     public static void main(String args[]){
