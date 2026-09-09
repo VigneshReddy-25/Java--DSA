@@ -3,7 +3,7 @@ package DSA.Searching;
 import java.util.Arrays;
 import java.util.List;
 
-public class FoundEleList {
+public class FindEleList {
     public static void main(String args[]){
         List<String> al= Arrays.asList("pen","paper","book","pencil");
         String target="book";
