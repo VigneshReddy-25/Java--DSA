@@ -1,4 +1,4 @@
-package DSA1.Searching;
+package Searching;
 
 public class Findsqrt {
     public static void main(String args[]){

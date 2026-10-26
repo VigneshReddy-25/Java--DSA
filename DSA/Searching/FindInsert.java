@@ -1,4 +1,4 @@
-package DSA1.Searching;
+package Searching;
 
 public class FindInsert {
     // public static void main(String args[]){

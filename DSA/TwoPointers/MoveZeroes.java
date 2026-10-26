@@ -1,4 +1,4 @@
-package DSA1.TwoPointers;
+package TwoPointers;
 
 public class MoveZeroes {
     public static void main(String args[]){

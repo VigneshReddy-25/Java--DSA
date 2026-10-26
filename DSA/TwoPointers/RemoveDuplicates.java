@@ -1,6 +1,5 @@
-package DSA1.TwoPointers;
+package TwoPointers;
 
-import java.util.Arrays;
 
 public class RemoveDuplicates {
     public static void main(String at[]){

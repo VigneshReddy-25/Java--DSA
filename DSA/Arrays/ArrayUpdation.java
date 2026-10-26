@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package Arrays;
 
 public class ArrayUpdation {
     public static void main(String args[]){

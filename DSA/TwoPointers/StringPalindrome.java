@@ -1,4 +1,4 @@
-package DSA1.TwoPointers;
+package TwoPointers;
 
 public class StringPalindrome {
     public static void main(String arg[]){

@@ -1,4 +1,4 @@
-package DSA1.Searching;
+package Searching;
 
 public class FirstLastOccurance {
     
